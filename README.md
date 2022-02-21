@@ -14,7 +14,7 @@ Coroutines https://developer.android.com/kotlin/coroutines?
 
 Room Database https://developer.android.com/training/data-storage/room
 
-Koin (but not using yet) https://insert-koin.io\
+Koin (but not using) https://insert-koin.io\
 
 Glide https://github.com/bumptech/glide
 
